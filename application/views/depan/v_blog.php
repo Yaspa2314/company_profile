@@ -35,32 +35,32 @@
 </div>
   <!--============================= HEADER =============================-->
   <div class="header-topbar">
-      <div class="container">
-          <div class="row">
-              <div class="col-xs-6 col-sm-8 col-md-9">
-                  <div class="header-top_address">
-                      <div class="header-top_list">
-                          <span class="icon-phone"></span>085100257920
-                      </div>
-                      <div class="header-top_list">
-                          <span class="icon-envelope-open"></span>info@mtstarfalbantargebang.sch.id
-                      </div>
-                      <div class="header-top_list">
-                          <span class="icon-location-pin"></span>Jl. Raya Siliwangi Km. 10 Gg. Melati Bekasi
-                      </div>
-                  </div>
-                  <div class="header-top_login2">
-                      <a href="<?php echo site_url('contact');?>">Hubungi Kami</a>
-                  </div>
-              </div>
-              <div class="col-xs-6 col-sm-4 col-md-3">
-                  <div class="header-top_login mr-sm-3">
-                      <a href="<?php echo site_url('contact');?>">Hubungi Kami</a>
-                  </div>
-              </div>
-          </div>
-      </div>
-  </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-6 col-sm-8 col-md-9">
+                    <div class="header-top_address">
+                        <div class="header-top_list">
+                            <span class="icon-phone"></span>083825105446
+                        </div>
+                        <div class="header-top_list">
+                            <span class="icon-envelope-open"></span>akor443@gmail.com
+                        </div>
+                        <div class="header-top_list">
+                            <span class="icon-location-pin"></span>Jl.Olahraga Kec.Paseh 4383
+                        </div>
+                    </div>
+                    <div class="header-top_login2">
+                        <a href="<?php echo site_url('contact');?>">Hubungi Kami</a>
+                    </div>
+                </div>
+                <div class="col-xs-6 col-sm-4 col-md-3">
+                    <div class="header-top_login mr-sm-3">
+                        <a href="<?php echo site_url('contact');?>">Hubungi Kami</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
   <div data-toggle="affix" style="border-bottom:solid 1px #f2f2f2;">
       <div class="container nav-menu2">
           <div class="row">
@@ -69,7 +69,7 @@
                       <button class="navbar-toggler navbar-toggler2 navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNavDropdown">
                           <span class="icon-menu"></span>
                       </button>
-                      <a href="<?php echo site_url('');?>" class="navbar-brand nav-brand2"><img class="img img-responsive" width="200px;" src="<?php echo base_url().'theme/images/logo-dark.png'?>"></a>
+                      <a href="<?php echo site_url('');?>" class="navbar-brand nav-brand2"><img class="img img-responsive" width="200px;" src="<?php echo base_url().'theme/images/lg.png'?>"></a>
                       <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
                           <ul class="navbar-nav">
                               <li class="nav-item">
@@ -179,9 +179,9 @@
             <div class="col-md-3">
                 <div class="foot-logo">
                     <a href="<?php echo site_url();?>">
-                        <img src="<?php echo base_url().'theme/images/logo-white.png'?>" class="img-fluid" alt="footer_logo">
+                        <img src="<?php echo base_url().'theme/images/grey.png'?>" class="img-fluid" alt="footer_logo">
                     </a>
-                    <p><?php echo date('Y');?> © copyright by MTs Tarbiyatul Falah</a>. <br>All rights reserved.</p>
+                    <p><?php echo date('Y');?> © copyright by SMA Terpadu Almu'min</a>. <br>All rights reserved.</p>
                     </div>
                 </div>
                 <div class="col-md-3">
@@ -211,13 +211,13 @@
                 <div class="col-md-3">
                     <div class="address">
                         <h3>Hubungi Kami</h3>
-                        <p><span>Alamat: </span> Jl. Raya Siliwangi Km. 10 Gg. Melati Rt. 03/ Rw.07 Bekasi, Jawa Barat, INA. 17151</p>
-                        <p>Email : info@mtstarfalbantargebang.sch.id
-                            <br> Phone : +628510 025 7920</p>
+                        <p><span>Alamat: </span> Jl. Olahraga Km. 10 Ds. Sukamantri Rt. 03/ Rw.03 Kab,Bandung  Jawa Barat, Kode Pos. 40383 </p>
+                        <p>Email : Akor443@gmail.com
+                            <br> Phone : +6283825105446 </p>
                             <ul class="footer-social-icons">
-                                        <li><a href="https://m.facebook.com/mtstarbiyatulfalah.bantargebang"><i class="fa fa-facebook fa-fb" aria-hidden="true"></i></a></li>
-                                        <li><a href="https://www.instagram.com/mtstarbiyatulfalah94/?igshid=1xyoqvuqccosg"><i class="fa fa-instagram fa-in" aria-hidden="true"></i></a></li>
-                                        <li><a href="https://www.youtube.com/channel/UCcEDH5YygxNcE3CXB0covgg"><i class="fa fa-youtube fa-tw" aria-hidden="true"></i></a></li>
+                                        
+                                        <li><a href="https://www.instagram.com/sma.terpadualmumin02/?hl=id"><i class="fa fa-instagram fa-in" aria-hidden="true"></i></a></li>
+                                      
                                     </ul>
                         </div>
                     </div>

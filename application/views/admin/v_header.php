@@ -6,11 +6,11 @@
 <header class="main-header">
 
     <!-- Logo -->
-    <a href="index2.html" class="logo">
+    <a  class="logo">
       <!-- mini logo for sidebar mini 50x50 pixels -->
       <span class="logo-mini">MS</span>
       <!-- logo for regular state and mobile devices -->
-      <span class="logo-lg">MTS TARFAL</span>
+      <span class="logo-lg">SMATA</span>
     </a>
 
     <!-- Header Navbar: style can be found in header.less -->
@@ -90,7 +90,7 @@
               <!-- Menu Footer-->
               <li class="user-footer">
                 <div class="pull-right">
-                  <a href="<?php echo base_url().'admin/login/logout'?>" class="btn btn-default btn-flat">Sign out</a>
+                  <a href="<?php echo base_url().'admin/login/logout'?>" class="btn btn-default btn-flat">logout</a>
                 </div>
               </li>
             </ul>

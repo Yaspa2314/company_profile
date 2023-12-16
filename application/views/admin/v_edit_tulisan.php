@@ -164,12 +164,12 @@
         </li>
 
          <li>
-          <a href="<?php echo base_url().'administrator/logout'?>">
-            <i class="fa fa-sign-out"></i> <span>Sign Out</span>
-            <span class="pull-right-container">
-              <small class="label pull-right"></small>
-            </span>
-          </a>
+         <a href="<?php echo base_url() . 'admin/login/logout' ?>">
+              <i class="fa fa-sign-out"></i> <span>logoutt</span>
+              <span class="pull-right-container">
+                <small class="label pull-right"></small>
+              </span>
+            </a>
         </li>
 
 
@@ -300,7 +300,7 @@
     <div class="pull-right hidden-xs">
       <b>Version</b> 1.0
     </div>
-    <strong>Copyright &copy; 2017 <a href="#">MTs Tarbiyatul Falah</a>.</strong> All rights reserved.
+    <strong>Copyright &copy; 2023 <a href="#">SMA TERPADU ALMUMIN</a>.</strong> All rights reserved.
   </footer>
 
   <!-- Control Sidebar -->

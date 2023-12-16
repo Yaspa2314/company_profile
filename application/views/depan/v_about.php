@@ -36,13 +36,13 @@
                 <div class="col-xs-6 col-sm-8 col-md-9">
                     <div class="header-top_address">
                         <div class="header-top_list">
-                            <span class="icon-phone"></span>085100257920
+                            <span class="icon-phone"></span>083825105446
                         </div>
                         <div class="header-top_list">
-                            <span class="icon-envelope-open"></span>info@mtstarfalbantargebang.sch.id
+                            <span class="icon-envelope-open"></span>akor443@gmail.com
                         </div>
                         <div class="header-top_list">
-                            <span class="icon-location-pin"></span>Jl. Raya Siliwangi Km. 10 Gg. Melati Bekasi
+                            <span class="icon-location-pin"></span>Jl.Olahraga Kec.Paseh 4383
                         </div>
                     </div>
                     <div class="header-top_login2">
@@ -65,7 +65,7 @@
                         <button class="navbar-toggler navbar-toggler2 navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNavDropdown">
                             <span class="icon-menu"></span>
                         </button>
-                        <a href="<?php echo site_url('');?>" class="navbar-brand nav-brand2"><img class="img img-responsive" width="200px;" src="<?php echo base_url().'theme/images/logo-dark.png'?>"></a>
+                        <a href="<?php echo site_url('');?>" class="navbar-brand nav-brand2"><img class="img img-responsive" width="200px;" src="<?php echo base_url().'theme/images/lg.png'?>"></a>
                         <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
                             <ul class="navbar-nav">
                                 <li class="nav-item">
@@ -116,24 +116,30 @@
             <div class="col-md-7">
                 <h2>Kata Sambutan</h2>
                 <p>Bismillahirrohmanirrahim
-                    Assalamu’alaikum Warahmatullahi Wabarakatuh
-                    Terlebih dahulu kami ucapkan puji dan syukur kehadirat Allah SWT, yang telah banyak melimpahkan rahmat dan karuniaNya kepada kami, sehingga kami dapat mewujudkan impian kami untuk turut serta memberikan sumbangsih kami dalam dunia pendidikan Islam khususnya dan pendidikan di Indonesia pada umumya.
-                    Sholawat dan salam tak lupa kami kirimkan untuk junjungan kita bersama, Rosulullah Muhammad SAW, karena atas bimbingan, perjuangan dan pengorbanan beliau kita bisa hidup dalam nikmat Islam seperti saat ini.
+                Bismillahirrohmanirrahim
 
-                </p>
-                <p>Pendidikan adalah kunci untuk membuka kemajuan suatu bangsa. Tidak akan maju suatu bangsa jika rakyatnya berada dalam keterbelakangan pendidikan. Sebagai suatu negara yang besar dengan jumlah penduduk yang banyak, negara kita masih sangat memerlukan banyak perubahan positif dalam pendidikan. Pendidikan yang kita perlukan adalah yang tidak hanya memperhatikan kemampuan akademis anak, tetapi pendidikan yang memperhatikan keseimbangan antara kemampuan akademis, kecakapan olah tubuh, enterpreneur, akhlakul kharimah, yang terbungkus dalam aturan-aturan Islami demi mewujudkan generasi bangsa yang Islami yang cerdas secara moril dan spirituil.
-                </p>
-                <p>
-                Untuk itu kami merancang pendidikan di MTs Tarbiyatul Falah ini secara teritegrasi antara kemampuan akademis, olah tubuh, enterpreneur, akhlakul khrimahh yang dijalankan secara bertahap. Kami berharap dengan sistem ini akan dihasilkan anak-anak didik yang cerdas dalam segala aspek serta berakhlak dan bersikap sesuai dengan tuntunan Islami.
-                    Semoga MTs Tarbiyatul Falah bisa memberikan sumbangsih yang banyak bagi dunia pendidikan Indonesia saat ini dan dimasa yang akan datang. Aamiin… Aamiin YRA.
-                    Wassalamu’alaikum
-                    <p>
-                    H. Ali Firdaus, S.Ip<p>
-                    (Ketua Yayasan MTs Tarbiyatul Falah)     
+Assalamu’alaikum Warahmatullahi Wabarakatuh
+
+Puji syukur kita panjatkan kehadirat Allah SWT, yang senantiasa melimpahkan rahmat dan hidayah-Nya kepada kita semua. Sholawat dan salam semoga terus mengalir kepada junjungan kita, Nabi Muhammad SAW, yang dengan petunjuk dan ajarannya, kita bisa meraih kemuliaan dalam kehidupan ini.
+
+Sebagai insan pendidikan, kita menyadari bahwa peran sebuah lembaga pendidikan, seperti SMA Terpadu AlMumin, memiliki arti yang sangat besar dalam membentuk karakter dan masa depan generasi penerus bangsa. Pendidikan bukan sekadar transfer ilmu pengetahuan semata, tetapi juga pembentukan akhlak, kepribadian, dan semangat kewirausahaan yang kokoh.
+
+Di SMA Terpadu AlMumin, kami mengemban misi besar untuk mencetak generasi unggul yang tidak hanya handal di bidang akademis, namun juga terampil dalam olah tubuh, memiliki jiwa enterpreneur yang kreatif, dan memegang teguh nilai-nilai ke-Islaman. Kami yakin, dengan menyelaraskan ketiga aspek ini, kita dapat melahirkan lulusan yang mampu bersaing di tingkat global, sekaligus menjadi sosok yang bermanfaat bagi agama, masyarakat, dan negara.
+
+Melalui pendekatan terpadu, kami berkomitmen untuk membimbing dan mengembangkan potensi setiap siswa secara holistik. Kami percaya, bahwa pendidikan yang berkualitas bukan hanya menghasilkan lulusan yang pintar, tetapi juga mampu membawa perubahan positif bagi lingkungan sekitarnya. Oleh karena itu, kami mengajak seluruh warga sekolah, orang tua, dan guru, untuk bersama-sama mendukung dan melibatkan diri aktif dalam proses pendidikan ini.
+
+Semoga SMA Terpadu AlMumin tidak hanya menjadi pusat pengetahuan, tetapi juga tempat yang mampu membentuk karakter mulia dan melahirkan pemimpin masa depan yang tangguh dan berintegritas. Dengan ridho Allah SWT, kita bersama-sama melangkah menuju puncak keberhasilan dan memberikan kontribusi besar bagi kemajuan bangsa dan negara.
+
+Akhir kata, mari kita doakan dan berupaya bersama agar SMA Terpadu AlMumin senantiasa menjadi lembaga pendidikan yang bermartabat, berdaya saing tinggi, dan memberikan kontribusi positif bagi peradaban umat. Semoga Allah SWT senantiasa memberikan petunjuk dan keberkahan-Nya. Aamiin.
+
+Wassalamu’alaikum Warahmatullahi Wabarakatuh
+
+Akor Kurniawan, S.Pd.I
+(Kepala Sekolah SMA Terpadu AlMumin)   
                 </p>
                 </div>
                 <div class="col-md-5">
-                    <img src="<?php echo base_url().'theme/images/ss.png'?>" class="img-fluid" alt="#">
+                    <img src="<?php echo base_url().'theme/images/ss1.png'?>" class="img-fluid" alt="#">
                 </div>
             </div>
         </div>
@@ -144,67 +150,37 @@
     <div class="container">
         <div class="row">
             <div class="col-md-7">
-                <h2>Moto</h2>
+                <h2>visi dan misi</h2>
                 <p>
                 </p>
-                <p>“Melahirkan Generasi Islami, Rabbani dan Rahmatan Lil A’lamin”<p>
- <h3>Islami</h3><p>
-1.	Berlandaskan tuntunan Al-Qur’an, Sunnah Rasul dengan pemahaman Ahlusunnah Wal Jama’ah<p>
-2.	Berlandaskan pada akhlaq mulia Rasulullah shallahu’alaihi wasallam<p>
-3.	Berorientasi sebagai ummat yang rahmatan lil’alamin
+              
+
+                <h3>Visi</h3><p>
+bumi warisan hamba yang sholeh (Tersirat pada Q.S Al-anbiya : 105).<p>
+                    <p>
+
+
+ <h3>Misi</h3><p>
+1.	Membina generasi unggul<p>
+2.	Membekali tafaquh fiddien<p>
+3.	Membiasakan Akhlaqul Karimah<p>
+4.	Mengarjakan wawasan<p>
+5.	Membudayakan lingkungan sehat<p>
+6.	Melatih mandiri<p>
+    
 
                 </p>
                 <p>
-<h3>Rabbani</h3><p>
-1.	Berilmu Islam dan umum<p>
-2.	Beriman dan beramal<p>
-3.	Berdakwah
-                    <p>
-<h3>Rahmatan Lil ‘Alamin</h3><p>
-1.	Bersikap benar, jujur, disiplin, tanggung jawab, santun dan ceria, terbuka, dan bekerjasama<p>
-2.	Berpikir logis, kritis, kreatif dan inovatif<p>
-3.	Mengolah dan mengelola keberagaman<p>
-    
-                </p>
+
                 </div>
                 <div class="col-md-5">
-                    <img src="<?php echo base_url().'theme/images/tarfal.png'?>" class="img-fluid" alt="#">
+                    <img src="<?php echo base_url().'theme/images/tarfal1.png'?>" class="img-fluid" alt="#">
                 </div>
             </div>
         </div>
     </section>
     <!--//END WELCOME TITLE -->
-    <!--============================= TESTIMONIAL =============================-->
-    <section class="testimonial">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <h2>Testimonial</h2>
-                </div>
-                <div class="col-md-12">
-                    <div class="single-item">
-                        <div class="quote">
-                            <i class="fa fa-quote-left" aria-hidden="true"></i>
-                            <p class="quote_text">MTs Tarbiyatul Falah benar-benar mengagumkan. Saya sangat senang bisa bergabung dengan MTs Tarbiyatul Falah dan menjadi siswa terbaik tahun 2018.</p>
-                            <div class="testi-img_block">
-                                <img src="<?php echo base_url().'theme/images/student-1.png'?>" class="img-fluid" alt="#">
-                                <p><span>Hernandez Alvaro</span>Siswa Terbaik 2018</p>
-                            </div>
-                        </div>
-                        <div class="quote">
-                            <i class="fa fa-quote-left" aria-hidden="true"></i>
-                            <p class="quote_text">MTs Tarbiyatul Falah benar-benar mengagumkan. Saya sangat senang bisa bergabung dengan MTs Tarbiyatul Falah dan menjadi siswa terbaik tahun 2017. </p>
-                            <div class="testi-img_block">
-                                <img src="<?php echo base_url().'theme/images/student-2.png'?>" class="img-fluid" alt="#">
-                                <p><span>Elanoar Rigby</span>Siswa Terbaik 2017</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--//END TESTIMONIAL -->
+   
     <!--============================= DETAILED CHART =============================-->
     <div class="detailed_chart">
         <div class="container">
@@ -251,56 +227,56 @@
 
         <!--============================= FOOTER =============================-->
         <footer>
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-3">
-                        <div class="foot-logo">
-                            <a href="<?php echo site_url();?>">
-                                <img src="<?php echo base_url().'theme/images/logo-white.png'?>" class="img-fluid" alt="footer_logo">
-                            </a>
-                            <p><?php echo date('Y');?> © copyright by MTs Tarbiyatul Falah</a>. <br>All rights reserved.</p>
-                            </div>
-                        </div>
-                        <div class="col-md-3">
-                            <div class="sitemap">
-                                <h3>Menu Utama</h3>
-                                <ul>
-                                    <li><a href="<?php echo site_url();?>">Home</a></li>
-                                    <li><a href="<?php echo site_url('about');?>">About</a></li>
-                                    <li><a href="<?php echo site_url('artikel');?>">Blog </a></li>
-                                    <li><a href="<?php echo site_url('galeri');?>">Gallery</a></li>
-                                    <li><a href="<?php echo site_url('contact');?>">Contact</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="col-md-3">
-                          <div class="sitemap">
-                              <h3>Akademik</h3>
-                              <ul>
-                                  <li><a href="<?php echo site_url('guru');?>">Guru</a></li>
-                                  <li><a href="<?php echo site_url('siswa');?>">Siswa </a></li>
-                                  <li><a href="<?php echo site_url('pengumuman');?>">Pengumuman</a></li>
-                                  <li><a href="<?php echo site_url('agenda');?>">Agenda</a></li>
-                                  <li><a href="<?php echo site_url('download');?>">Download</a></li>
-                              </ul>
-                          </div>
-                        </div>
-                        <div class="col-md-3">
-                            <div class="address">
-                                <h3>Hubungi Kami</h3>
-                                <p><span>Alamat: </span> Jl. Raya Siliwangi Km. 10 Gg. Melati Rt. 03/ Rw.07 Bekasi, Jawa Barat, INA. 17151</p>
-                                <p>Email : info@mtstarfalbantargebang.sch.id
-                                    <br> Phone : +628510 025 7920</p>
-                                    <ul class="footer-social-icons">
-                                        <li><a href="https://m.facebook.com/mtstarbiyatulfalah.bantargebang"><i class="fa fa-facebook fa-fb" aria-hidden="true"></i></a></li>
-                                        <li><a href="https://www.instagram.com/mtstarbiyatulfalah94/?igshid=1xyoqvuqccosg"><i class="fa fa-instagram fa-in" aria-hidden="true"></i></a></li>
-                                        <li><a href="https://www.youtube.com/channel/UCcEDH5YygxNcE3CXB0covgg"><i class="fa fa-youtube fa-tw" aria-hidden="true"></i></a></li>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3">
+                <div class="foot-logo">
+                    <a href="<?php echo site_url();?>">
+                        <img src="<?php echo base_url().'theme/images/grey.png'?>" class="img-fluid" alt="footer_logo">
+                    </a>
+                    <p><?php echo date('Y');?> © copyright by SMA Terpadu Almu'min</a>. <br>All rights reserved.</p>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="sitemap">
+                        <h3>Menu Utama</h3>
+                        <ul>
+                            <li><a href="<?php echo site_url();?>">Home</a></li>
+                            <li><a href="<?php echo site_url('about');?>">About</a></li>
+                            <li><a href="<?php echo site_url('artikel');?>">Blog </a></li>
+                            <li><a href="<?php echo site_url('galeri');?>">Gallery</a></li>
+                            <li><a href="<?php echo site_url('contact');?>">Contact</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                  <div class="sitemap">
+                      <h3>Akademik</h3>
+                      <ul>
+                          <li><a href="<?php echo site_url('guru');?>">Guru</a></li>
+                          <li><a href="<?php echo site_url('siswa');?>">Siswa </a></li>
+                          <li><a href="<?php echo site_url('pengumuman');?>">Pengumuman</a></li>
+                          <li><a href="<?php echo site_url('agenda');?>">Agenda</a></li>
+                          <li><a href="<?php echo site_url('download');?>">Download</a></li>
+                      </ul>
+                  </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="address">
+                        <h3>Hubungi Kami</h3>
+                        <p><span>Alamat: </span> Jl. Olahraga Km. 10 Ds. Sukamantri Rt. 03/ Rw.03 Kab,Bandung  Jawa Barat, Kode Pos. 40383 </p>
+                        <p>Email : Akor443@gmail.com
+                            <br> Phone : +6283825105446 </p>
+                            <ul class="footer-social-icons">
+                                        
+                                        <li><a href="https://www.instagram.com/sma.terpadualmumin02/?hl=id"><i class="fa fa-instagram fa-in" aria-hidden="true"></i></a></li>
+                                      
                                     </ul>
-                                </div>
-                            </div>
                         </div>
                     </div>
-                </footer>
+                </div>
+            </div>
+        </footer>
                 <!--//END FOOTER -->
                 <!-- jQuery, Bootstrap JS. -->
                 <script src="<?php echo base_url().'theme/js/jquery.min.js'?>"></script>

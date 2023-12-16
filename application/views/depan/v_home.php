@@ -5,7 +5,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>M School - Selamat Datang di M School</title>
+    <title>M School - Selamat Datang di SMATA Paseh</title>
     <link rel="shorcut icon" href="<?php echo base_url().'theme/images/icon.png'?>">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="<?php echo base_url().'theme/css/bootstrap.min.css'?>">
@@ -30,11 +30,7 @@
 </head>
 
 <body>
-    <div style="position:fixed;left:20px;bottom:20px;">
-<a href="https://api.whatsapp.com/send?phone=+6285100257920&text=Halo">
-<button style="background:#32C03C;vertical-align:center;height:36px;border-radius:5px">
-<img src="https://web.whatsapp.com/img/favicon/1x/favicon.png"> Whatsapp Kami</button></a>
-</div>
+   
     <!--============================= HEADER =============================-->
     <div class="header-topbar">
         <div class="container">
@@ -42,13 +38,13 @@
                 <div class="col-xs-6 col-sm-8 col-md-9">
                     <div class="header-top_address">
                         <div class="header-top_list">
-                            <span class="icon-phone"></span>085100257920
+                            <span class="icon-phone"></span>083825105446
                         </div>
                         <div class="header-top_list">
-                            <span class="icon-envelope-open"></span>info@mtstarfalbantargebang.sch.id
+                            <span class="icon-envelope-open"></span>akor443@gmail.com
                         </div>
                         <div class="header-top_list">
-                            <span class="icon-location-pin"></span>Jl. Raya Siliwangi Km. 10 Gg. Melati Bekasi
+                            <span class="icon-location-pin"></span>Jl.Olahraga Kec.Paseh 4383
                         </div>
                     </div>
                     <div class="header-top_login2">
@@ -71,7 +67,7 @@
                         <button class="navbar-toggler navbar-toggler2 navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNavDropdown">
                             <span class="icon-menu"></span>
                         </button>
-                        <a href="<?php echo site_url('');?>" class="navbar-brand nav-brand2"><img class="img img-responsive" width="200px;" src="<?php echo base_url().'theme/images/logo-dark.png'?>"></a>
+                        <a href="<?php echo site_url('');?>" class="navbar-brand nav-brand2"><img class="img img-responsive" width="200px;" src="<?php echo base_url().'theme/images/lg.png'?>"></a>
                         <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
                             <ul class="navbar-nav">
                                 <li class="nav-item">
@@ -121,7 +117,7 @@
             </ol>
             <div class="carousel-inner" role="listbox">
                 <div class="carousel-item active">
-                    <img class="d-block" src="<?php echo base_url().'theme/images/slider.jpg'?>" alt="First slide">
+                    <img class="d-block" src="<?php echo base_url().'theme/images/poto1.jpeg'?>" alt="First slide">
                     <div class="carousel-caption d-md-block">
                         <div class="slider_title">
                             <h1>Bepikir Kreaftif &amp; Inovatif</h1>
@@ -133,7 +129,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img class="d-block" src="<?php echo base_url().'theme/images/slider-2.jpg'?>" alt="Second slide">
+                    <img class="d-block" src="<?php echo base_url().'theme/images/poto2.jpeg'?>" alt="Second slide">
                     <div class="carousel-caption d-md-block">
                         <div class="slider_title">
                             <h1>Guru Bekualitas Tinggi</h1>
@@ -145,7 +141,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img class="d-block" src="<?php echo base_url().'theme/images/slider-3.jpg'?>" alt="Third slide">
+                    <img class="d-block" src="<?php echo base_url().'theme/images/poto1.jpeg'?>" alt="Third slide">
                     <div class="carousel-caption d-md-block">
                         <div class="slider_title">
                             <h1>Proses Belajar Interatif</h1>
@@ -175,11 +171,11 @@
         <div class="row">
             <div class="col-md-8">
                <h2>Welcome</h2>
-               <p>Kami Menyambut baik terbitnya Website MTs Tarbiyatul Falah Bantar Gebang yang baru , dengan harapan dipublikasinya website ini sekolah berharap : Peningkatan layanan pendidikan kepada siswa, orangtua, dan masyarakat pada umumnya semakin meningkat. </p>
+               <p>Kami Menyambut baik terbitnya Website SMA TERPADU ALMU'MIN yang baru , dengan harapan dipublikasinya website ini sekolah berharap : Peningkatan layanan pendidikan kepada siswa, orangtua, dan masyarakat pada umumnya semakin meningkat. </p>
 
             </div>
             <div class="col-md-4">
-                <img src="<?php echo base_url().'theme/images/ss.png'?>" class="img-fluid about-img" alt="#">
+                <img src="<?php echo base_url().'theme/images/ss1.png'?>" class="img-fluid about-img" alt="#">
             </div>
         </div>
     </div>
@@ -309,9 +305,9 @@
             <div class="col-md-3">
                 <div class="foot-logo">
                     <a href="<?php echo site_url();?>">
-                        <img src="<?php echo base_url().'theme/images/logo-white.png'?>" class="img-fluid" alt="footer_logo">
+                        <img src="<?php echo base_url().'theme/images/grey.png'?>" class="img-fluid" alt="footer_logo">
                     </a>
-                    <p><?php echo date('Y');?> © copyright by MTs Tarbiyatul Falah</a>. <br>All rights reserved.</p>
+                    <p><?php echo date('Y');?> © copyright by SMA Terpadu Almu'min</a>. <br>All rights reserved.</p>
                     </div>
                 </div>
                 <div class="col-md-3">
@@ -341,13 +337,13 @@
                 <div class="col-md-3">
                     <div class="address">
                         <h3>Hubungi Kami</h3>
-                        <p><span>Alamat: </span> Jl. Raya Siliwangi Km. 10 Gg. Melati Rt. 03/ Rw.07 Bekasi, Jawa Barat, INA. 17151 </p>
-                        <p>Email : info@mtstarfalbantargebang.sch.id
-                            <br> Phone : +628510 025 7920 </p>
+                        <p><span>Alamat: </span> Jl. Olahraga Km. 10 Ds. Sukamantri Rt. 03/ Rw.03 Kab,Bandung  Jawa Barat, Kode Pos. 40383 </p>
+                        <p>Email : Akor443@gmail.com
+                            <br> Phone : +6283825105446 </p>
                             <ul class="footer-social-icons">
-                                        <li><a href="https://m.facebook.com/mtstarbiyatulfalah.bantargebang"><i class="fa fa-facebook fa-fb" aria-hidden="true"></i></a></li>
-                                        <li><a href="https://www.instagram.com/mtstarbiyatulfalah94/?igshid=1xyoqvuqccosg"><i class="fa fa-instagram fa-in" aria-hidden="true"></i></a></li>
-                                        <li><a href="https://www.youtube.com/channel/UCcEDH5YygxNcE3CXB0covgg"><i class="fa fa-youtube fa-tw" aria-hidden="true"></i></a></li>
+                                        
+                                        <li><a href="https://www.instagram.com/sma.terpadualmumin02/?hl=id"><i class="fa fa-instagram fa-in" aria-hidden="true"></i></a></li>
+                                      
                                     </ul>
                         </div>
                     </div>

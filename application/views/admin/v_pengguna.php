@@ -10,7 +10,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>MTs Tarbiyatul Falah | Data Pengguna</title>
+  <title>SMA TERPADU ALMUMIN | Data Pengguna</title>
   <!-- Tell the browser to be responsive to screen width -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
   <link rel="shorcut icon" type="text/css" href="<?php echo base_url().'assets/images/favicon.png'?>">
@@ -154,11 +154,12 @@
         </li>
 
          <li>
-          <a href="<?php echo base_url().'administrator/logout'?>">
-            <i class="fa fa-sign-out"></i> <span>Sign Out</span>
-            <span class="pull-right-container">
-              <small class="label pull-right"></small>
-            </span>
+         <a href="<?php echo base_url() . 'admin/login/logout' ?>">
+              <i class="fa fa-sign-out"></i> <span>logoutt</span>
+              <span class="pull-right-container">
+                <small class="label pull-right"></small>
+              </span>
+            </a>
           </a>
         </li>
 
@@ -261,7 +262,7 @@
     <div class="pull-right hidden-xs">
       <b>Version</b> 1.0
     </div>
-    <strong>Copyright &copy; 2017 <a href="#">MTs Tarbiyatul Falah</a>.</strong> All rights reserved.
+    <strong>Copyright &copy; 2023 <a href="#">SMA TERPADU ALMUMIN</a>.</strong> All rights reserved.
   </footer>
 
   <!-- Control Sidebar -->
@@ -525,7 +526,7 @@
                                         <div class="col-sm-7">
                                             <select class="form-control" name="xlevel" required>
                                                 <option value="1">Administrator</option>
-                                                <option value="2">Author</option>
+                                                
                                             </select>
                                         </div>
                                     </div>

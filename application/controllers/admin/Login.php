@@ -1,3 +1,5 @@
+
+
 <?php
 class Login extends CI_Controller{
     function __construct(){
@@ -43,6 +45,7 @@ class Login extends CI_Controller{
 
     function logout(){
         $this->session->sess_destroy();
-        redirect('admin/login');
+        $url=base_url('admin/login');
+        redirect($url);
     }
 }
