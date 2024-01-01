@@ -24,11 +24,7 @@
 </head>
 
 <body>
-    <div style="position:fixed;left:20px;bottom:20px;">
-<a href="https://api.whatsapp.com/send?phone=+6285100257920&text=Halo">
-<button style="background:#32C03C;vertical-align:center;height:36px;border-radius:5px">
-<img src="https://web.whatsapp.com/img/favicon/1x/favicon.png"> Whatsapp Kami</button></a>
-</div>
+   
   <!--============================= HEADER =============================-->
   <div class="header-topbar">
         <div class="container">
